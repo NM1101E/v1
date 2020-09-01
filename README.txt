@@ -6,4 +6,5 @@ by the National University of Singapore.
 
 Update Log v1.0
 - User Interface for Tutor Login, Booking Form, Contact Us
+- Photos of Tutors were randomly generated from: https://thispersondoesnotexist.com
 
